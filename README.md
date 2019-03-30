@@ -1,5 +1,7 @@
 # TIC-TAC-TOE-GAME
 
+![tictak1]("https://user-images.githubusercontent.com/43094705/55280405-406c4200-534b-11e9-9f3f-77237a72e606.PNG")
+
 
 ## USAGE
 
