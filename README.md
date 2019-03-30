@@ -37,14 +37,17 @@ https://www.dropbox.com/s/w4552c4kf07n7rt/win.mp3?dl=0
 6.your project is rady.
 
 
-##Acknowledgment
+
+                                                     Or
+                                                      
+you can simply copy and paste my project in project folder of android.
+
+
+## Acknowledgment
 
 Spacial Thinks To ANKIT KUMAR.
 
 https://github.com/sparrow007
 
 
-                                                      Or
-                                                      
-you can simply copy and paste my project in project folder of android.
 
