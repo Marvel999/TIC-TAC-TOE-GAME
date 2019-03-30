@@ -1,6 +1,6 @@
 # TIC-TAC-TOE-GAME
 
-![tictak1]("https://user-images.githubusercontent.com/43094705/55280405-406c4200-534b-11e9-9f3f-77237a72e606.PNG")
+![tictok1](https://user-images.githubusercontent.com/43094705/55280488-4c0c3880-534c-11e9-9664-d3bf1d302215.jpg)
 
 
 ## USAGE
