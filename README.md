@@ -1,6 +1,9 @@
 # TIC-TAC-TOE-GAME
 
-![tictoktoe](https://user-images.githubusercontent.com/43094705/55280593-ba9dc600-534d-11e9-8a18-03292dfb3f44.jpg)
+![tictoktoe](https://user-images.githubusercontent.com/43094705/55280736-79a6b100-534f-11e9-9281-6bf6b0d9ec7b.jpg)
+
+
+
 ## USAGE
 
 This is an simple android project for beginer.you can Start your android Project by this project.It is too simple and easy to learn.
